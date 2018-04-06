@@ -1,7 +1,10 @@
 # WCDenverCSS
 CSS for WCDenver 2018 website.
 
-- Create a branch with a descriptive name
+How to contribute:
+
+- Clone this repo. Not sure how? Use [GitHub Desktop](https://desktop.github.com) and then [follow these steps](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/)
+- Create a new branch with a descriptive name
 - Push your changes to your branch
 - Create a pull request against the `master` branch
 
