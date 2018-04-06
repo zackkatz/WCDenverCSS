@@ -364,6 +364,18 @@ body.single-wcb_sponsor .attachment-post-thumbnail {
     width: auto;
 }
 
+/**
+ * 
+ * SPONSORS PAGE
+ *
+ */
+
+/** Hide sponsors images in favor of embedding */
+.wcorg-sponsor-description > .size-wcb-sponsor-logo-horizontal-2x {
+	display: none;
+}
+
+
 .wcorg-session {
     margin: 0 0 60px;
     padding: 0 0 60px;
