@@ -87,7 +87,7 @@ hr {
     background: url('https://2018.denver.wordcamp.org/files/2018/03/andrew-preble-187054-unsplash.jpg');
     background-size: 100%;
     min-height: 440px;
-    padding-top: 50px;
+    padding-top: 20px;
     position: relative;
     background-repeat: no-repeat;
     background-position: 100% 35%;
@@ -95,10 +95,11 @@ hr {
 
 h1.site-title {
     background: url('https://2018.denver.wordcamp.org/files/2018/03/wc_logo.png');
-    width: 240px;
-    height: 75px;
+    width: 400px;
+    height: 125px;
     display: block;
-    text-indent: 100%;
+    text-indent: -1000px;
+    overflow:hidden;
     white-space: nowrap;
     display: block;
     margin: 0 auto 10px;
