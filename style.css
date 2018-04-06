@@ -97,6 +97,7 @@ h1.site-title {
     background: url('https://2018.denver.wordcamp.org/files/2018/03/wc_logo.png');
     width: 400px;
     height: 125px;
+    max-width: 90%;
     display: block;
     text-indent: -1000px;
     overflow:hidden;
