@@ -1500,6 +1500,20 @@ td.wcb-track-design {
         font-weight: bold;
         margin: 0;
     }
+	
+	#masthead {
+        min-height: 0;
+    }
+    .site-description {
+        color: white;
+        text-shadow: 0 0 2px #491922;
+    }
+    h1.site-title {
+        display: block;
+        margin: 0 auto;
+        position: relative;
+        left: auto;
+	}
 }
 
 tr.wcpt-time-950am td.wcpt-time:after,
