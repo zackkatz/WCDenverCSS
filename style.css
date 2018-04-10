@@ -84,7 +84,7 @@ hr {
 }
 
 #masthead {
-    background: url('https://2018.denver.wordcamp.org/files/2018/03/andrew-preble-187054-unsplash.jpg');
+    background: url('https://2018.denver.wordcamp.org/files/2018/04/maxresdefault.jpg');
     background-size: 100%;
     min-height: 440px;
     padding-top: 20px;
@@ -94,20 +94,22 @@ hr {
 }
 
 h1.site-title {
-    background: url('https://2018.denver.wordcamp.org/files/2018/03/wc_logo.png');
-    width: 400px;
-    height: 125px;
-    max-width: 90%;
-    display: block;
-    text-indent: -1000px;
-    overflow:hidden;
-    white-space: nowrap;
-    display: block;
-    margin: 0 auto 10px;
-    z-index: 5;
-    position: relative;
-    background-size: contain;
-    background-repeat: no-repeat;
+	background: url('https://2018.denver.wordcamp.org/files/2018/03/wc_logo.png');
+	width: 400px;
+	height: 125px;
+	max-width: 90%;
+	display: block;
+	text-indent: -1000px;
+	overflow: hidden;
+	white-space: nowrap;
+	display: block;
+	margin: 0 auto 10px -200px;
+	z-index: 5;
+	position: absolute;
+	background-size: contain;
+	background-repeat: no-repeat;
+	top: 25%;
+	left: 50%;
 }
 
 .site-description {
