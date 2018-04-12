@@ -435,9 +435,10 @@ body.single-wcb_sponsor .attachment-post-thumbnail {
 }
 
 .wcorg-organizer {
-    flex-basis: 33%;
-    text-align: center;
-    position: relative;
+	flex-basis: 50%;
+	text-align: center;
+	position: relative;
+	padding: 5px 5%;
 }
 
 .wcorg-organizer h2 {
