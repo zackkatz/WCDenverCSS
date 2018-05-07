@@ -211,10 +211,6 @@ body.home #content {
     padding: 75px 15px;
 }
 
-body.home h1.entry-title {
-    display: none;
-}
-
 body.home .entry-content {
     margin-top: 0;
 }
