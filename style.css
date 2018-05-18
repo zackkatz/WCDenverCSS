@@ -48,12 +48,6 @@ h1 {
     font-size: 42px;
 }
 
-h1.entry-title {
-    border-bottom: 1px solid #ccc; /** TODO: Replace with fun graphic, a la https://2016.annarbor.wordcamp.org/files/2016/02/hr-new.jpg */
-    padding-bottom: 35px;
-    margin-bottom: 40px;
-}
-
 h2 {
     font-size: 32px;
 }
