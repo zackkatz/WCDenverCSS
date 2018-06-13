@@ -44,7 +44,8 @@ a:visited {
     color: #554974;
 }
 
-h1, 
+h1,
+article h1.entry-title,
 h2, 
 h3, 
 h4, 
@@ -53,7 +54,8 @@ h6,
 .site-navigation li {
 	font-family: Raleway, "Gill Sans", Roboto, sans-serif;
 	font-variant: normal;
-	text-transform: normal;
+	text-transform: none;
+	text-align: left;
 }
 
 header .entry-meta {
@@ -250,8 +252,9 @@ body.home .entry-content {
 }
 
 h1.entry-title {
-    font-size: 48px;
+   	font-size: 2.5em;
     font-weight: normal;
+	text-align: center;
 }
 
 .wca-home-introduction {
